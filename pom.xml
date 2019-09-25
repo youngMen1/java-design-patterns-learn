@@ -24,6 +24,9 @@
         <module>facade</module>
         <module>prototype</module>
         <module>flyweight</module>
+        <module>chain-of-responsibility</module>
+        <module>command</module>
+        <module>interpreter</module>
     </modules>
 
     <parent>
@@ -34,6 +37,7 @@
     </parent>
 
     <properties>
+        <design-patterns.version>0.0.1-SNAPSHOT</design-patterns.version>
         <java.version>1.8</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
