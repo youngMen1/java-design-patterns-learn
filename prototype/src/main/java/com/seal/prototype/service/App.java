@@ -4,7 +4,7 @@ package com.seal.prototype.service;
  * @author zhiqiang.feng
  * @version 1.0
  * @date-time 2019/9/24 20:21
- * @description
+ * @description 原型模式
  **/
 public class App {
     public static void main(String[] args) {
