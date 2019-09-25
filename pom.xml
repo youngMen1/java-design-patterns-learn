@@ -18,6 +18,7 @@
         <module>builder</module>
         <module>adapter</module>
         <module>bridge</module>
+        <module>filter</module>
     </modules>
 
     <parent>
