@@ -21,6 +21,9 @@
         <module>filter</module>
         <module>composite</module>
         <module>decorator</module>
+        <module>facade</module>
+        <module>prototype</module>
+        <module>flyweight</module>
     </modules>
 
     <parent>
@@ -29,7 +32,6 @@
         <version>2.1.8.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-
 
     <properties>
         <java.version>1.8</java.version>
