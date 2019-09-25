@@ -2,13 +2,14 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.seal.responsibility</groupId>
-    <artifactId>chain-of-responsibility</artifactId>
+
+    <groupId>com.seal.command</groupId>
+    <artifactId>command</artifactId>
     <version>${parent.version}</version>
     <packaging>jar</packaging>
 
-    <name>chain-of-responsibility</name>
-    <description>责任链模式（Chain of Responsibility Pattern）</description>
+    <name>command</name>
+    <description>命令模式（Command Pattern）</description>
 
     <parent>
         <artifactId>java-design-patterns-learn</artifactId>
