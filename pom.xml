@@ -35,6 +35,7 @@
         <module>state</module>
         <module>null-object</module>
         <module>strategy</module>
+        <module>template</module>
     </modules>
 
     <parent>
