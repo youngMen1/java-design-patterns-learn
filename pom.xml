@@ -30,6 +30,11 @@
         <module>iterator</module>
         <module>mediator</module>
         <module>memento</module>
+        <module>observer</module>
+        <module>proxy</module>
+        <module>state</module>
+        <module>null-object</module>
+        <module>strategy</module>
     </modules>
 
     <parent>
