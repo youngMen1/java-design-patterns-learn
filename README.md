@@ -78,4 +78,6 @@
 
 
 ## 设计模式之间的关系：
+![img](./doc/static/image/summary.jpg)
+![img](./doc/static/image/微信截图_20190718163826.png)
 ![img](./etc/the-relationship-between-design-patterns.jpg)
