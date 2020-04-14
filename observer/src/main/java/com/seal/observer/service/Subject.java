@@ -11,6 +11,9 @@ import java.util.List;
  **/
 public class Subject {
 
+    /**
+     *  ArrayList 存放观察者们
+     */
     private List<Observer> observers
             = new ArrayList<Observer>();
     private int state;
