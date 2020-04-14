@@ -14,6 +14,7 @@ package com.seal.singleton.service;
  * getInstance() 的性能对应用程序不是很关键（该方法使用不太频繁）。
  **/
 public class SingletonLazySafe {
+
     private static SingletonLazySafe instance;
 
     private SingletonLazySafe() {

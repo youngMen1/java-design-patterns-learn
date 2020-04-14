@@ -18,8 +18,14 @@ package com.seal.singleton.service;
  **/
 public class SingletonHunger {
 
+    /**
+     * 私有
+     */
     private static SingletonHunger instance = new SingletonHunger();
 
+    /**
+     * 私有构造函数 不能被实例化
+     */
     private SingletonHunger() {
     }
 
