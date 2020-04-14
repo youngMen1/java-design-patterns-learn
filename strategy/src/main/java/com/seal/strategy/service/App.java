@@ -4,7 +4,7 @@ package com.seal.strategy.service;
  * @author zhiqiang.feng
  * @version 1.0
  * @date-time 2019/9/26 11:10
- * @description
+ * @description 策略模式
  **/
 public class App {
     public static void main(String[] args) {
